@@ -1271,7 +1271,7 @@ class LayoutLMv3ForQuestionAnswering(LayoutLMv3PreTrainedModel):
     """
     LayoutLMv3 Model with a sequence classification head on top (a linear layer on top of the final hidden state of the
     [CLS] token) e.g. for document image classification tasks such as the
-    [RVL-CDIP](https://www.cs.cmu.edu/~aharley/rvl-cdip/) dataset.
+    [RVL-CDIP](https://adamharley.com/rvl-cdip/) dataset.
     """,
     LAYOUTLMV3_START_DOCSTRING,
 )
